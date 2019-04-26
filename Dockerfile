@@ -1,5 +1,5 @@
 FROM alpine:latest
-MAINTANER Manuel Jimenez mjimenez@mjimenez.net
+MAINTAINER Manuel Jimenez mjimenez@mjimenez.net
 
 # Dependencies
 RUN apk add ca-certificates
